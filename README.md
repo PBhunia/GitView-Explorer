@@ -12,7 +12,7 @@ GitView Explorer is a web application that allows you to discover, compare, and 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/heysaiyad/GitView-Explorer.git
+    git clone https://github.com/PBhunia/GitView-Explorer.git
     ```
 2. Navigate to the project directory:
     ```sh
